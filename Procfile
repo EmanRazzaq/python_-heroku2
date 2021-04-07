@@ -1,1 +1,1 @@
-web: python testface.py
+web: python test2.py
