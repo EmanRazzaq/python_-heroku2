@@ -1,1 +1,1 @@
-web: python test2.py
+web: gunicorn test2.app
